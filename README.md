@@ -3,5 +3,5 @@
 ##Metodología usada:Scrum
 ### Que es Scrum?
 
-![Esta es una imagen] (https://oracleteamusa-images.s3.amazonaws.com/original/m348_oracle.png)
+![Esta es una imagen](https://oracleteamusa-images.s3.amazonaws.com/original/m348_oracle.png)
 c
