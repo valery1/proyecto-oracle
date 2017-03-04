@@ -4,4 +4,5 @@
 ### Que es Scrum?
 
 ![Esta es una imagen](https://oracleteamusa-images.s3.amazonaws.com/original/m348_oracle.png)
-c
+
+![image](https://s3.amazonaws.com/scrumorg-website-prod/drupal/inline-images/2017-01/ScrumValuesPosterv3.png)
